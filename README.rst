@@ -1,8 +1,8 @@
 :orphan:
 
-##############################
-an00125: USB Mass Storage Device Class
-##############################
+######################################
+AN00125: USB Mass Storage Device Class
+######################################
 
 :vendor: XMOS
 :version: 1.0.0
